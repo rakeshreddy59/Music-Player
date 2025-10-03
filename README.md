@@ -1,5 +1,4 @@
 # 🎧 Spotify Web Player Clone
-g
 A responsive front-end clone of the Spotify web player interface, built purely with HTML, CSS, and vanilla JavaScript. This project focuses on replicating the visual layout, navigation structure, and basic local audio playback functionality of the popular music streaming service.
 
 ***
@@ -48,3 +47,8 @@ You need a modern web browser to view the project. No other software is strictly
     Alternatively, use a Live Server extension (if using VS Code) to serve the files, which is better for development.
 
 ### Project Structure
+Spotify-Web-Player-Clone/
+├── assets/                  # All images and local music files (.mp3, .mp4)
+├── index.html               # Main structure and JavaScript logic
+├── style.css                # All CSS styling
+└── README.md                # This file
